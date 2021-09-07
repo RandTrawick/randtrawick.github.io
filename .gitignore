@@ -1,0 +1,15 @@
+node_modules/
+.cache/
+public
+
+# IDE files
+*.sublime-workspace*
+.idea
+/.*.md.html
+.settings
+.project
+.classpath
+*~
+*.swp
+*.swo
+.vscode/launch.json
